@@ -58,8 +58,8 @@ GEM
     haml (4.0.2)
       tilt
     i18n (0.6.4)
-    json (1.7.7)
-    json_pure (1.7.7)
+    json (2.1.0)
+    json_pure (2.1.0)
     mail (2.5.3)
       i18n (>= 0.4.0)
       mime-types (~> 1.16)
